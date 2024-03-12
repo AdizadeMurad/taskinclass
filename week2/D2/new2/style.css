@@ -1,0 +1,46 @@
+
+.box{
+    width: 200px;
+    height: 150px;
+    border: 2px solid blueviolet;
+    background-color: rgb(136, 42, 165);
+    
+   
+   
+}
+.box1{
+    width: 200px;
+    height: 150px;
+    border: 2px solid blueviolet;
+    background-color: rgb(91, 165, 42);
+    position: absolute;
+    left: 70px;
+}
+.box2{
+    width: 200px;
+    height: 150px;
+    border: 2px solid blueviolet;
+    background-color: brown;
+}
+.box3{
+    width: 200px;
+    height: 150px;
+    border: 2px solid blueviolet;
+    background-color: brown;
+}
+.box4{
+    width: 200px;
+    height: 150px;
+    border: 2px solid blueviolet;
+    background-color: brown;
+}
+.general{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 600px;
+    background-color: orange;
+    position: relative;
+}
